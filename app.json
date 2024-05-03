@@ -2,30 +2,30 @@
   "name": "Xlicon-MD",
   "version": "3.0.5",
   "description": "Xlicon-MD, A modular advanced wabot",
-  "logo": "https://i.ibb.co/FsvbwqF/XLICON.jpg",
+  "logo": "https://telegra.ph/file/99078ca2ee3993882be63.jpg",
   "keywords": ["whatsapp", "bot", "md", "multi-device", "Xlicon", "Xlicon-MD", "wabot", "termux-bot", "sc-bot"],
-  "repository": "https://github.com/salmanytofficial/XLICON-V3-MD",
+  "repository": "https://github.com/heyit-tylor/XLICON-V3-MD",
   "stack": "container",
   "env": {
     "SUDO": {
       "description": "Add Owwner Number Here",
       "required": true,
-      "value": "923184070915"
+      "value": "254754783972"
     },
     "SUDO_NAME": {
       "description": "Add Your Name Here",
       "required": true,
-      "value": "SᴀʟᴍᴀɴSᴇʀ"
+      "value": "Tylor"
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
       "required": true,
-      "value": ""
+      "value": "HRKU-dcefa9d0-f19a-4f8a-ae73-573ccaae95cf"
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
       "required": true,
-      "value": ""
+      "value": "tylicon"
     },
     "PREFIX": {
       "description": "Set Your Prefix Here",
@@ -45,17 +45,17 @@
      "AUTHER_NAME": {
       "description": "Enter Auther Name Here",
       "required": false,
-      "value": "ＭＡＤＥ   ＢＹ   ＳＡＬＭＡＮ"
+      "value": "Tylor"
      },
      "GL_VIP": {
       "description": "Enter Premium Members Numbers [ Each Saperated By Comma ]",
       "required": false,
-      "value": "923184070915,923264476886"
+      "value": "923184070915,923264476886,254754783972,254787371970"
      },
     "WELCOME_MSG": {
       "description": "Welcome Message True/False",
       "required": false,
-      "value": "true"
+      "value": "false"
      },
     "MENU_DESIGN": {
       "description": "Choose Any Style v1 => v8",
@@ -65,7 +65,7 @@
     "AUTO_STATUS_SEEN": {
       "description": "Auto Status Seen True/False",
       "required": false,
-      "value": "true"
+      "value": "false"
      },
      "AUTO_BLOCK": {
       "description": "Set A Contary Code To Auto banned if u wanna",
