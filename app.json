@@ -50,7 +50,7 @@
      "GL_VIP": {
       "description": "Enter Premium Members Numbers [ Each Saperated By Comma ]",
       "required": false,
-      "value": "923184070915,923264476886,254754783972,254787371970"
+      "value": "254754783972,254787371970"
      },
     "WELCOME_MSG": {
       "description": "Welcome Message True/False",
@@ -60,7 +60,7 @@
     "MENU_DESIGN": {
       "description": "Choose Any Style v1 => v8",
       "required": false,
-      "value": "v2"
+      "value": "v3"
      },
     "AUTO_STATUS_SEEN": {
       "description": "Auto Status Seen True/False",
