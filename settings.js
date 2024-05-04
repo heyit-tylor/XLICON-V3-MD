@@ -27,7 +27,7 @@
 //Instagram: @heyits_tylor
 //Telegram: t.me/heyits_tylor
 //GitHub: @heyit-tylor
-//WhatsApp: +254754783972
+//WhatsApp: 254754783972
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 //   * Created By Github: DGXeon.
 //   * Credit To Xeon
@@ -52,7 +52,7 @@ global.location = process.env.GL_INFO || "Kenya, Kisumu" //ur location
 //________________________________________________________________________________________________________
 global.botname = process.env.BOT_NAME || 'XLICON-V3-MD' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '+254754783972' //ur owner number
+global.ownernumber = process.env.SUDO || '254754783972' //ur owner number
 //________________________________________________________________________________________________________
 global.ownername = process.env.SUDO_NAME || 'Tylor' //ur owner name
 //________________________________________________________________________________________________________
